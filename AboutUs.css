@@ -87,7 +87,7 @@ body {
 }
 
 .content-section .social {
-    margin: 40px 40px;
+    margin: 25px 40px;
 }
 
 .content-section .social i {
@@ -105,7 +105,8 @@ body {
 .section2 {
     width           : 100%;
     min-height      : 100vh;
-    background-color: #bfdff5;
+    /* background-color: #bfdff5; */
+    background: linear-gradient(135deg, #FF5F6D, #FFC371);
 
 }
 
@@ -151,7 +152,7 @@ body {
 .content-section2 .content2 p {
     margin-top : 20px;
     font-family: sans-serif;
-    font-size  : 17px;
+    font-size  : 21px;
     line-height: 1.5;
 
 }
@@ -559,5 +560,7 @@ body {
 }
 
 .main-content{
-    background   : linear-gradient(135deg, #d41e31, #491f8f);
+    color: white;
+    background: linear-gradient(135deg, #FF5F6D, #FFC371);
+        
 }
